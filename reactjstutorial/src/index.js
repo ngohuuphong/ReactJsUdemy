@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const App = function() {
+const App = function () {
     return <div> Hi there!</div>;
 };
 
 ReactDOM.render(
-    <App / > ,
+    <App />,
     document.querySelector('#root')
 );
