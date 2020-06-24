@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "title": "Phong",
+      "description": "Create stream",
+      "id": 1
+    },
+    {
+      "title": "Phong2",
+      "description": "Create stream2",
+      "id": 2
+    },
+    {
+      "title": "Phong 3",
+      "description": "i created",
+      "userId": "115069794088168066669",
+      "id": 3
+    },
+    {
+      "title": "Phong 3",
+      "description": "i created",
+      "userId": "115069794088168066669",
+      "id": 4
+    },
+    {
+      "title": "Ngo Huu",
+      "description": "Phong",
+      "userId": "115069794088168066669",
+      "id": 5
+    },
+    {
+      "title": "aaaa",
+      "description": "qqqq",
+      "userId": "115069794088168066669",
+      "id": 6
+    }
+  ]
+}

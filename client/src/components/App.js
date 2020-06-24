@@ -13,7 +13,7 @@ const App = () => {
             <BrowserRouter>
                 <div>
                     <Header/> 
-                    <Route path="/" component={StreamList} />
+                    <Route path="/" exact component={StreamList} />
                     <Route path="/stream/new" exact component={StreamCreate} />
                     <Route path="/stream/edit" component={StreamEdit} />
                     <Route path="/stream/delete" component={StreamDelete} />
