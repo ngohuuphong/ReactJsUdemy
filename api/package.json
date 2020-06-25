@@ -1,14 +1,14 @@
 {
-  "name": "api",
-  "version": "1.0.0",
-  "description": "// npm init ->create node module",
-  "main": "index.js",
-  "scripts": {
-    "start": "json-server -p 3001 -w db.json"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "json-server": "^0.16.1"
-  }
+    "name": "api",
+    "version": "1.0.0",
+    "description": "// npm init ->create node module // npm install --save json-server //\"start\": \"json-server -p 3001 -w db.json\"",
+    "main": "index.js",
+    "scripts": {
+        "start": "json-server -p 3001 -w db.json"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "^0.16.1"
+    }
 }
